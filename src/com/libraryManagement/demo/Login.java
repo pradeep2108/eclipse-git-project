@@ -887,7 +887,7 @@ public class Login implements LibraryService {
                 enterDetails.add(l_return);
                 
                 enterDetails.setLayout(null);
-                enterDetails.setSize(500,300);
+                enterDetails.setSize(500,310);
                 enterDetails.setVisible(true);
                 enterDetails.setLocationRelativeTo(null);
 
